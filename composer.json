@@ -1,0 +1,15 @@
+{
+    "name": "jexon/swoole_jexon",
+    "description": "基于swoole的框架",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jexon Smith",
+            "email": "827506590@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "ext-swoole": ">=4.5"
+    }
+}
