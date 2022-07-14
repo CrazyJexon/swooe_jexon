@@ -2,6 +2,7 @@
     "name": "jexon/swoole_jexon",
     "description": "基于swoole的框架",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jexon Smith",
