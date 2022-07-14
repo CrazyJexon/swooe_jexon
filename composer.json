@@ -3,6 +3,7 @@
     "description": "基于swoole的框架",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/CrazyJexon/swooe_jexon.git",
     "authors": [
         {
             "name": "Jexon Smith",
