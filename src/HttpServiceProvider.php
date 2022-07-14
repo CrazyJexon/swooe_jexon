@@ -21,4 +21,9 @@ abstract class HttpServiceProvider
     protected $isWebsocket = false;
 
 
+    /**
+     * @var boolean
+     */
+    protected $isHttp = false;
+
 }
