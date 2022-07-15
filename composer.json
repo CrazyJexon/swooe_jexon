@@ -11,6 +11,13 @@
         }
     ],
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "nikic/fast-route": "^1.3",
+        "symfony/console": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jexon\\swoole_jexon\\": "src/"
+        }
     }
 }
